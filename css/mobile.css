@@ -1,0 +1,123 @@
+#navbar .container .logo{
+    float: none;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#navbar .container ul, #navbar ul li{
+    float: none;
+    text-align: center;
+}
+
+#navbar .container ul li a{
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: 19px;
+    border-bottom: 1px #333 dotted;
+}
+
+#navbar li a:hover,
+#navbar li a.current{
+    border-bottom: 0.5px solid rgba(150, 149, 149, 0.8);
+
+}
+#showcase .container .info-left{
+    float: none;
+    width: 100%;
+    padding-bottom: 60px;
+    
+}
+
+#showcase .container .info-left .hello-msg{
+    font-size: 12.11px;
+    margin: 0 auto;
+    padding: 10px 5px;
+    font-weight: 600;
+}
+
+#showcase .container .info-left h2,
+#showcase .container .info-left .title{
+    text-align: center;
+}
+
+#showcase .container .info-left ul li{
+    padding: 0 0 0 40px;
+}
+
+#showcase .container .info-left ul li a{
+    font-size: 14px;
+}
+#showcase .container .info-right{
+    float: none;
+    width: 100%;
+}
+
+#showcase .container .info-right img{
+    height: 250px;
+    max-width: 250px;
+}
+
+#author .container{
+    margin: 28rem auto;
+}
+
+#author .container .author-info-left{
+    float: none;
+    width: 100%;
+    
+}
+
+#author .container .author-info-left h2{
+    text-align: center;
+}
+
+#author .container .author-info-left #slack-id{
+    background: #aa95f4;
+    padding: 5px;
+}
+
+#author .container .author-info-left .hobbies{
+    font-style: italic;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+#author .container .author-info-right{
+    float: none;
+    width: 100%;
+}
+
+#author .container .author-info-right img{
+    display: block;
+    margin: 8rem auto 0 auto;
+    height: auto;
+    width: 350px;
+}
+
+#visitors-form{
+    margin-top: -110px;
+}
+#visitors-form .container .form-left{
+    float: none;
+    width: 100%;
+    
+}
+.clr{
+    clear: none;
+}
+#visitors-form .container .form-left img{
+    margin: 0 auto;
+    
+}
+
+#visitors-form .container .form-right{
+    float: none;
+    width: 100%;
+    padding-top: 3.74rem;   
+    
+}
+
+#footer footer .container p{
+    padding: 15px 30px;
+    font-size: 1.25rem;
+}
