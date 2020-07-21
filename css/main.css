@@ -8,7 +8,7 @@
 /* Pre setups */
 html,
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6em;
     background: #100e17;
     scroll-behavior: smooth;
@@ -371,6 +371,7 @@ input{
 
 
 #footer footer .container p{
+<<<<<<< HEAD
     padding: 5px 30px;
     font-size: 0.65rem;
 }
@@ -495,3 +496,8 @@ input{
         font-size: 0.65rem;
     }
 }
+=======
+    padding: 15px 30px;
+    font-size: 1.75rem;
+}
+>>>>>>> ed3a9d85ce1f39b79ddd879a32e9161084a04a62
