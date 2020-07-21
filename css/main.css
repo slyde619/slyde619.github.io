@@ -291,8 +291,7 @@ ul{
 /* Visitor's Form */
 #visitors-form .container .form-left{
     width: 50%;
-    order: 2;
-    
+    order: 2;  
 }
 
 #visitors-form .container .form-left img{
@@ -302,8 +301,6 @@ ul{
     width: 80%;
     align-content: center;
     align-self: center;
-   
-
 }
 
 .m-top{
@@ -327,7 +324,6 @@ input{
     color: #fff;
     margin-bottom: 8px;
     font-size: 18px;
-    box-shadow: inset 10px 10px 10px gray;
     
 }
 
